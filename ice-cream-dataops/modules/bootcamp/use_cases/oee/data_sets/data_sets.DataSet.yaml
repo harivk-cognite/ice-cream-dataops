@@ -1,0 +1,5 @@
+name: Overall Equipment Effectiveness Use Case
+
+externalId: {{ uc_oee_ds_external_id }}
+
+description: "Data sets for the Overall Equipment Effectiveness Use Case"

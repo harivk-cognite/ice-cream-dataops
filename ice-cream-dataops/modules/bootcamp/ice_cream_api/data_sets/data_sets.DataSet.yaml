@@ -1,0 +1,5 @@
+name: Ice Cream Factory Data Set
+
+externalId: {{ icapi_ds_external_id }}
+
+description: "Data sets for the ice cream factory"
